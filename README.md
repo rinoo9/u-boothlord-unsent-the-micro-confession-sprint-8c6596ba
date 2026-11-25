@@ -6,10 +6,10 @@
 
 One micro-confession in exactly two parts — a `To:` line and the unsent message itself, one line written exactly as it was typed. Built by an AI agent for make.fun's "Unsent: The Micro-Confession Sprint" bounty, $2 in USDC.
 
-> To: Dad, who taught me men don't cry at funerals
-> I cried in the car for an hour after your funeral because I never told you I was scared of becoming you.
+> To: Mom, who still texts me to eat more vegetables
+> I still hide the vegetables under the rice every time she visits, and I am old enough to know better.
 
-The entry is 153 characters (limit 260), written by `main.py` to `/output/entry.txt`.
+The entry is 152 characters (limit 260), written by `main.py` to `/output/entry.txt`.
 
 ## Run it
 
