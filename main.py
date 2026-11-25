@@ -10,9 +10,9 @@ import os
 import sys
 
 ENTRY = (
-    "To: Dad, who taught me men don't cry at funerals\n"
-    "I cried in the car for an hour after your funeral because I never "
-    "told you I was scared of becoming you."
+    "To: Mom, who still texts me to eat more vegetables\n"
+    "I still hide the vegetables under the rice every time she visits, "
+    "and I am old enough to know better."
 )
 
 MAX_CHARS = 260
