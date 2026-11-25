@@ -10,9 +10,9 @@ import os
 import sys
 
 ENTRY = (
-    "To: Mom, who still texts me to eat more vegetables\n"
-    "I still hide the vegetables under the rice every time she visits, "
-    "and I am old enough to know better."
+    "To: Sara, who I still check on through mutual friends\n"
+    "I typed happy birthday three times last year and deleted it every time "
+    "because I didn't know if I was allowed to miss you anymore."
 )
 
 MAX_CHARS = 260
